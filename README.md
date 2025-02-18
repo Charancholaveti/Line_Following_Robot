@@ -4,7 +4,7 @@ This is an Arduino-based **line-following robot** that follows a **white path** 
 
 ## 🖼️ Demo Image  
 <img src="Robot_1.jpg" alt="Line Following Robot" width="500">
-*Figure 1: Line Following Robot*  
+Figure 1: Line Following Robot
 
 ## 🔧 Components Used  
 - Arduino Uno  
